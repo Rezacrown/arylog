@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arylog/static/css/main.d05ea694.css",
+    "main.js": "/arylog/static/js/main.cadcbae0.js",
+    "static/js/787.72e67039.chunk.js": "/arylog/static/js/787.72e67039.chunk.js",
+    "static/media/portofolioPP.jpg": "/arylog/static/media/portofolioPP.0b15d302c84d7bf6dae3.jpg",
+    "index.html": "/arylog/index.html",
+    "main.d05ea694.css.map": "/arylog/static/css/main.d05ea694.css.map",
+    "main.cadcbae0.js.map": "/arylog/static/js/main.cadcbae0.js.map",
+    "787.72e67039.chunk.js.map": "/arylog/static/js/787.72e67039.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d05ea694.css",
+    "static/js/main.cadcbae0.js"
+  ]
+}
