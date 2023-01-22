@@ -1,19 +1,20 @@
+// import core
+import './App.css'
 
-import './App.css';
+
 
 // components
-import Navbar from './Components/Navbar';
-import Card from './Components/Card';
+import Navbar from './Components/Navbar'
+import Main from './Components/main'
+// components end
 
-
-
-function App() {
+function App () {
   return (
-    <div className="App">
+    <div className='App'>
       <Navbar />
-      <Card />
+      <Main />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
