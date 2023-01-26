@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arylog/static/css/main.e87cb65d.css",
-    "main.js": "/arylog/static/js/main.ead2e24e.js",
+    "main.css": "/arylog/static/css/main.93bbefd6.css",
+    "main.js": "/arylog/static/js/main.571ef145.js",
     "static/js/787.72e67039.chunk.js": "/arylog/static/js/787.72e67039.chunk.js",
     "static/media/dino.jpg": "/arylog/static/media/dino.0fa2f4018480b0e30357.jpg",
     "static/media/portofolioPP.jpg": "/arylog/static/media/portofolioPP.0b15d302c84d7bf6dae3.jpg",
@@ -10,12 +10,12 @@
     "static/media/facebook.png": "/arylog/static/media/facebook.01a470d813915c298403.png",
     "static/media/icons8-instagram-100.png": "/arylog/static/media/icons8-instagram-100.b75d30a4e5e7e15574a9.png",
     "index.html": "/arylog/index.html",
-    "main.e87cb65d.css.map": "/arylog/static/css/main.e87cb65d.css.map",
-    "main.ead2e24e.js.map": "/arylog/static/js/main.ead2e24e.js.map",
+    "main.93bbefd6.css.map": "/arylog/static/css/main.93bbefd6.css.map",
+    "main.571ef145.js.map": "/arylog/static/js/main.571ef145.js.map",
     "787.72e67039.chunk.js.map": "/arylog/static/js/787.72e67039.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e87cb65d.css",
-    "static/js/main.ead2e24e.js"
+    "static/css/main.93bbefd6.css",
+    "static/js/main.571ef145.js"
   ]
 }
